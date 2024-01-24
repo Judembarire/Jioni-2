@@ -1,0 +1,43 @@
+body{
+    background-color: darkcyan;
+    text-align: left;
+    padding-left: 100px ;
+    padding-top: 100px;
+     }
+ a{
+    text-decoration: none;
+     color: maroon;
+  }
+ a:hover{
+    color: white;
+    border-bottom: hotpink 1px solid;
+     font-size: 15px;
+ }
+#one{
+    background-color: white;
+}
+#two{
+    background-color:  #56781c ;
+}
+ p{
+     color: chartreuse;
+ }
+ .one{
+     color: grey;
+ }
+.two{
+    /*background-color: brown;*/
+    border: rebeccapurple 2px solid;
+    padding: 30px ;
+    border-radius: 100px ;
+    width: 50% ;
+height: 5% ;
+}
+
+
+
+
+
+
+
+

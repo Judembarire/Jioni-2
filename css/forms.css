@@ -1,0 +1,26 @@
+body{
+    background-color: #297979;
+    text-align: center;
+}
+a{
+    text-decoration: none;
+}
+a:hover{
+    color: white;
+    border-bottom: crimson 2px solid;
+}
+h1{
+    font-size: 40px ;
+}
+
+
+
+
+
+
+
+
+
+
+
+

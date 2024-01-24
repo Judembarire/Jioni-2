@@ -1,0 +1,92 @@
+.three{
+    float: right;
+    width: 50%;
+font-size: 30px;
+}
+
+.two{
+    float: left;
+    width: 50%;
+font-size: 30px ;
+}
+iframe{
+    border-radius: 3%;
+}
+.four{
+    border-radius: 4%;
+    background-color: grey;
+    color: black;
+    text-indent: 20px;
+    font-size: 20px;
+
+}
+body{
+    background-color: black;
+    padding-left: 50px;
+}
+p{
+    color: white;
+}
+form{
+    border: solid 2px black;
+    border-radius: 25px;
+    padding: 2px;
+}
+input{
+    background-color: grey;
+    color: white;
+    border-collapse: collapse;
+    border-radius: 2%;
+
+}
+.map{
+    filter: grayscale(100%);
+}.clmnone{
+    background-color: grey;
+    border: black 15px solid;
+    height: 50px;
+    width: 200px;
+    border: black 5px solid;
+    border-radius: 55px;
+    border-collapse: collapse;
+    text-indent: 10px;
+ }
+.clmntwo{
+    background-color: grey;
+    border: black 15px solid;
+    height: 50px;
+    width: 200px;
+    border: black 5px solid;
+    border-radius: 55px;
+    border-collapse: collapse;
+    text-indent: 10px;
+}
+.clmnthree{
+    background-color: grey;
+    border: black 15px solid;
+    height: 50px;
+    width: 200px;
+    border: black 5px solid;
+    border-radius: 55px;
+    border-collapse: collapse;
+    text-indent: 10px;
+}
+.clmnfour{
+    background-color: grey;
+    border: black 15px solid;
+    height: 50px;
+    width: 200px;
+    border: black 5px solid;
+    border-radius: 55px;
+    border-collapse: collapse;
+    text-indent: 10px;
+}
+.rowone{
+align-content: normal;
+
+}
+
+
+
+
+

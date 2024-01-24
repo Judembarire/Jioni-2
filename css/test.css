@@ -1,0 +1,21 @@
+body{
+    text-align: center;
+    color: ghostwhite;
+    background-color: black;
+}
+.one{
+    color: darkred;
+    padding: 3px ;
+    border: crimson double 5px ;
+    font-size: 30px ;
+}
+.two{
+    color: darkred;
+    border: brown solid 1px ;
+
+}
+
+
+
+
+
